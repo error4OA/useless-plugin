@@ -1,8 +1,8 @@
 /**
- * @name Example
+ * @name useless plugin
  * @version 0.0.1
- * @description Example Description
- * @author Example
+ * @description dont turn this plugin on please
+ * @author ukraine#8034
  *  
  */
 
