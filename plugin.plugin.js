@@ -14,6 +14,7 @@
     start() {
 
 BdApi.alert("hello","i saw u turning this plugin on, its completly useless so please turn off")
+BdApi.showToast(" /\ read him /\ ")
 
 //stop coding
 }
